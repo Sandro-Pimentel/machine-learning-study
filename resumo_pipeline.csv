@@ -1,0 +1,7 @@
+Etapa,Descrição,Funções Principais,Bibliotecas
+1. Carregamento,"Carrega arquivos PDF, CSV ou JSON e extrai texto","carregar_pdf(), carregar_csv(), carregar_json(), carregar_arquivo()","pdfplumber, csv, json"
+2. PLN,"Limpeza, remoção de stopwords e stemização do texto","limpar_texto(), tokenizar_simples(), remover_stopwords(), stemizar_texto(), processar_texto_pln()","re, nltk (opcional)"
+3. Chunking,Divide texto em pedaços com sobreposição,"criar_chunks(texto, tamanho_chunk, overlap)",built-in Python
+4. Embedding,Converte chunks em vetores numéricos,"criar_embeddings(chunks, usar_modelo_real)","sentence_transformers, numpy"
+5. VectorDB,Armazena e gerencia embeddings,"VectorDB.adicionar(), VectorDB.salvar(), VectorDB.carregar()","numpy, pickle"
+6. Query,Busca vetorial por similaridade,"realizar_busca_vetorial(vector_db, query, n_resultados)",numpy (cálculo de similaridade)

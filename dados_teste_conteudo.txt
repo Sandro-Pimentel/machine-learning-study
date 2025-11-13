@@ -1,0 +1,12 @@
+Documento de Teste - Machine Learning e IA
+
+Embeddings e Representacao Vetorial
+
+Embeddings sao representacoes numericas de dados em um espaco vetorial de alta dimensao.
+Word embeddings capture semantic relationships between words in a vector space.
+
+Aplicacoes de PLN
+
+O processamento de linguagem natural tem diversas aplicacoes praticas, incluindo chatbots,
+traducao automatica, analise de sentimento e sumarizacao de textos.
+NLP applications are transforming how we interact with technology and process information.

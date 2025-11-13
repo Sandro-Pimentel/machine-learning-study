@@ -1,0 +1,19 @@
+{
+  "documentos": [
+    {
+      "id": 1,
+      "titulo": "Inteligência Artificial e Machine Learning",
+      "conteudo": "A inteligência artificial é uma área da ciência da computação que se concentra no desenvolvimento de sistemas capazes de realizar tarefas que normalmente requerem inteligência humana. Machine learning is a subset of artificial intelligence that enables systems to learn and improve from experience without being explicitly programmed."
+    },
+    {
+      "id": 2,
+      "titulo": "Processamento de Linguagem Natural",
+      "conteudo": "O processamento de linguagem natural (PLN) é um campo da inteligência artificial que ajuda computadores a entender, interpretar e manipular a linguagem humana. Natural language processing combines computational linguistics with statistical, machine learning, and deep learning models."
+    },
+    {
+      "id": 3,
+      "titulo": "Bancos de Dados Vetoriais",
+      "conteudo": "Bancos de dados vetoriais são projetados para armazenar e recuperar embeddings de alta dimensão de forma eficiente. Vector databases are essential for semantic search, recommendation systems, and retrieval-augmented generation applications."
+    }
+  ]
+}
