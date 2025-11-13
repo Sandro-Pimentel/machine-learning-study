@@ -108,7 +108,3 @@ resultados = realizar_busca_vetorial(vector_db, "sua pergunta aqui", n_resultado
 ## Exemplo Completo
 
 Veja o arquivo `pipeline_ml_completo.py` para um exemplo completo de uso.
-
-## Licença
-
-MIT License
